@@ -2,7 +2,7 @@
 This repository has been created to check and explore different Mars Rover concepts, experiments, and project-related work that are present in the Research AI domain.
 
 # Research AI Task 6 — Car Price Prediction
-Objective
+Objective:
 The objective of this task is to predict the price of cars from the given Car Price Prediction dataset using linear regression. The implementation is done without using scikit-learn, as required by the task.
 
 ## Files
