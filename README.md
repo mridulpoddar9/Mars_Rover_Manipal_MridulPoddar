@@ -6,13 +6,13 @@ Objective:
 The objective of this task is to predict the price of cars from the given Car Price Prediction dataset using linear regression. The implementation is done without using scikit-learn, as required by the task.
 
 ## Files
-- `Task_6_Car_Price_Linear_Regression.ipynb` — main notebook
+- `Task_6_Car_Price_Linear_Regression_.ipynb` — main notebook
 - `CarPrice_Assignment.csv` — dataset
 - `Task_6_Car_Price_Linear_Regression_Report.docx` — report
 
 ## Results
-- Test MSE: 12,029,795.51
-- Test RMSE: 3,468.40
+- Test MSE: ₹12,029,795.51
+- Test RMSE: ₹3,468.40
 - Test R²: 0.829
 
 ## Method
